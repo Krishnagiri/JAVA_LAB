@@ -9,7 +9,7 @@ class book
 	book()
 	{
 		name="THE WOLF OF WALL STREET";
-		author="SIDDHARTHA";
+		author="krishna";
 		price=350.50;
 		pages=420;
 	}
